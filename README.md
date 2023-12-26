@@ -2,10 +2,15 @@
 
 2022-2 통계적데이터분석 팀프로젝트:서울시 영화 관람 데이터 기반 영화 흥행 조건 분석
 
+[발표자료 보러가기](https://docs.google.com/presentation/d/1LGIrxvcG8BMmHAKVpzHKIwaOzFPMvWurMTtjuEpSHY4/edit?usp=sharing)
+
+<br/>
+
 ## 참고자료
   - 파이썬 머신러닝 완벽 가이드
   -  https://hleecaster.com/ml-logistic-regression-example/?amp 해당 페이지 참조
 
+<br/>
 
 ## 데이터 수집
 ![통데분_무비뷰잉팀](https://github.com/KimSH39/MovieViewing/assets/80878955/cced1b1d-5ab8-4641-aceb-772890e334f0)
